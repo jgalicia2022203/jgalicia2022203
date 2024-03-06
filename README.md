@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.tenor.com/MITYB6vVih0AAAAM/many-faces-y-somos-amigos.gif"  />
+<img align="left" height="200" margin="20px" src="https://media.tenor.com/MITYB6vVih0AAAAM/many-faces-y-somos-amigos.gif"/>
 
 ###
 
@@ -61,9 +61,6 @@
   </a>
   <a href="https://twitter.com/Tonelito_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/tonelito" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
